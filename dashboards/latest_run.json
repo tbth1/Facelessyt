@@ -1,0 +1,3044 @@
+{
+ "date": "2026-09-03",
+ "run": 1,
+ "channels": [
+  {
+   "ytChannelId": "UCarhEwIqdYAmLTFamSTYbNg",
+   "title": "Global Life Lens",
+   "handle": "@Globallife.documentary",
+   "niche": "travel",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCQcBYZxFW7YwNMU8-DsT3Uw",
+   "title": "Dr. Elias Senior Health ",
+   "handle": "@Dr.EliasYT",
+   "niche": "health",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCgX6ttzPIHKjW6IVxVAcT4w",
+   "title": "Jiang Exclusive",
+   "handle": "@jiangexclusives",
+   "niche": "personal finance",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCQ5imaHcujp1h98CGpLE9sA",
+   "title": "WIRED Investigations",
+   "handle": "@WIREDInvestigations",
+   "niche": "news",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCb0ps9eCp0y6yP1Xg4sDDFw",
+   "title": "The Fatal Board",
+   "handle": "@fatalboard",
+   "niche": "business",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UC63Xb3Hl5XlEfvGI6W7NvwQ",
+   "title": "WildScope",
+   "handle": "@WildScope-f7w",
+   "niche": "wildlife",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UC6bz3qvnsGqw9r1q63IHIjw",
+   "title": "EARTH SIGNAL",
+   "handle": "@EARTHSIGNAL1982",
+   "niche": "disaster and accidents",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCYvgxe4pS3f4JTJyD93hg4Q",
+   "title": "Trucker Life",
+   "handle": "@TruckerLife11",
+   "niche": "autos",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCfAtrkjLdTI1uTzOxYJfjAg",
+   "title": "Justice Decoded",
+   "handle": "@Crimevault_2f",
+   "niche": "court cases & legal proceedings",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCE3DzKfdkEEf3kwQYPqcJFA",
+   "title": "Forgotten Home Engineering",
+   "handle": "@ForgottenHomeEngineering",
+   "niche": "do it yourself",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCmZkIfh9dr9434fuWfv_5RA",
+   "title": "Edge Tales",
+   "handle": "@EdgeTalesDocs",
+   "niche": "travel documentary",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCqou33wSnHGMNsWzkpfIefQ",
+   "title": "WW2 Vanguard",
+   "handle": "@WW2Vanguardx",
+   "niche": "history",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCmlc6ENWAq9Dxv_rR81eliQ",
+   "title": "MonarchArchive",
+   "handle": "@MonarchArchiveOfficial",
+   "niche": "royalty",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCZdbg9K3qVBXbSSusGRooig",
+   "title": "DUI Docket",
+   "handle": "@DUIDockety1t",
+   "niche": "court cases & legal proceedings",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCthgG5L0rbguU6AAUuUBoHg",
+   "title": "Senate Unsealed",
+   "handle": "@SenateUnsealed",
+   "niche": "politics",
+   "bucket": "1A"
+  },
+  {
+   "ytChannelId": "UCmlE_iOuxcCHgS-K5JrKTqQ",
+   "title": "Liliana Sun",
+   "handle": "@LilianaTheSun",
+   "niche": "travel documentary",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCnGVtqzoexqB5Nb-R_E51XA",
+   "title": "American Secrets",
+   "handle": "@AmericanSecrets-hxdk",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCc0OILjshBxiomU7H2CEVaw",
+   "title": "Judge Jason ",
+   "handle": "@JudgeAuditCourt",
+   "niche": "court cases & legal proceedings",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCur8BT-BbvOUHtvFJVAk2dQ",
+   "title": "Rewatch TV",
+   "handle": "@ItsRewatchTV",
+   "niche": "animation",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCjtZtRDuALbG747iwFUFCVA",
+   "title": "S zone",
+   "handle": "@Szone-r2w",
+   "niche": "disaster and accidents",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCXa5V2-4znoM3DkbPnssaKQ",
+   "title": "XTeam Restoration",
+   "handle": "@XTeamRestoration",
+   "niche": "do it yourself",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCuH__9-V7L87RcDpAEnv5Wg",
+   "title": "Rising Talent",
+   "handle": "@RisingTalent-st1",
+   "niche": "collecting",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCPTKs2IWDUdDl_pgbb6YBYQ",
+   "title": "AmericanJusticeFiles",
+   "handle": "@AmericanJusticeFiles",
+   "niche": "crime",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCt_GfvYbMFpnziOO4G1rOaA",
+   "title": "Case Exposed Legal TV",
+   "handle": "@CaseExposedLegalTV",
+   "niche": "crime",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCuiyYQhBZIpB4-zA0ghGKRA",
+   "title": "Military Blue",
+   "handle": "@MilitaryBlue-Official",
+   "niche": "military",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC-CzFjDbVlqH_mHK-oBy45Q",
+   "title": "Nils",
+   "handle": "@itsNilsstory",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCWtaF1n1ptl1MMVujQobO-g",
+   "title": "States 2050",
+   "handle": "@states2050",
+   "niche": "future & discoveries",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCX2UZLcFhehvBmLcNGCQsjw",
+   "title": "Palace Beacon",
+   "handle": "@PalaceBeacon",
+   "niche": "royalty",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCV7-Pko7oD-q4mFOSBpqcFg",
+   "title": "Luxury POV",
+   "handle": "@luxpovch",
+   "niche": "travel documentary",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCSIx0bZM9q6RxXw-rLE8O9Q",
+   "title": "The Divine Sermons",
+   "handle": "@TheDivineSermons",
+   "niche": "christianity",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCaS30yIIV6y2zqSnHGdIGMQ",
+   "title": "Mack",
+   "handle": "@MackExplains7",
+   "niche": "biology",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCh3gkJ64LpsrGtzNfLXvEWg",
+   "title": "Crown Recaps",
+   "handle": "@Crownrecapsofficials",
+   "niche": "movies",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCuIIaIZ-n_madpxLMt31vWQ",
+   "title": "Uncover History",
+   "handle": "@UncoverHistory-p2u",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCb-JjpjKxK8bPIGllUTof4g",
+   "title": "Jiang The Explainer",
+   "handle": "@JiangTheExplainer-e5d",
+   "niche": "geo politics",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCVo4E-iqlaasJpfC1G4ytKQ",
+   "title": "Breakpoint",
+   "handle": "@Breakpoint-r6w",
+   "niche": "disaster and accidents",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UChv8Mnq3g2iqsvkcg7j0AmA",
+   "title": "UntoldAmericaTV",
+   "handle": "@TheUntoldAmericaTV",
+   "niche": "crime",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCPaAQ4i3kxGiH161WmhD-xQ",
+   "title": "After the Crown",
+   "handle": "@afterthecrown-j6q",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC8KsBa2GAej1zK_C0t7AgMg",
+   "title": "The Planet Journal",
+   "handle": "@ThePlanetJournalGlobe",
+   "niche": "travel documentary",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCf7-PDJ_l7HrH5k7iPgcS1A",
+   "title": "Ravelin",
+   "handle": "@ravelin.history",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UClknXTywTKMGJdHHFbluExw",
+   "title": "Grandpa Walter",
+   "handle": "@GrandpaWalter-e1o",
+   "niche": "engineering",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCeLBhkoPNdtdSf0_PY-Wrfg",
+   "title": "Timeless Haven",
+   "handle": "@Timelesshaven-y4p",
+   "niche": "celebrity",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCF1a91UyGafSZpU_bujAF3w",
+   "title": "The State Archive",
+   "handle": "@TheStateArchive",
+   "niche": "life stories",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCG2AylsfKJ0-_RhsgZQE_Ag",
+   "title": "World's Greatest Heists",
+   "handle": "@WorldsGreatestHeists",
+   "niche": "crime",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCMqezKrzG1ky_YHiZwpAPhw",
+   "title": "Impossible Places Global",
+   "handle": "@ImpossiblePlacesGlobal",
+   "niche": "travel documentary",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCLzBs6GRIJEzjtrQFGt6zVA",
+   "title": "geography",
+   "handle": "@geographyunfold",
+   "niche": "science",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCZmCrH0IOW_PnxwVFJQqCuw",
+   "title": "Forgotten Royal Tables",
+   "handle": "@ForgottenRoyalTables",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCTM4nNDY7AYgBMP2YLcq6nA",
+   "title": "Ruined America",
+   "handle": "@RuinedAmerica",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCkpHztgvCbG6R77eViUcaVg",
+   "title": "Black Frigate",
+   "handle": "@black-frigate",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC6AwWrRKNrwt83CMJqeTUzw",
+   "title": "Mr. Finance",
+   "handle": "@misterfinanceyt",
+   "niche": "business",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCPBZi4fgqeGteT1jLkA6hzQ",
+   "title": "Life at Sea",
+   "handle": "@LifeAtSeaHQ",
+   "niche": "travel documentary",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCptcDomYoz1roBm0zhObIwA",
+   "title": "Trace to Capture",
+   "handle": "@TracetoCapture",
+   "niche": "crime",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCP35XlisYpNbFichqBtJoow",
+   "title": "DungeonsNoWork",
+   "handle": "@DungeonsNoWork",
+   "niche": "role playing",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC8Cp-nFoMwrwqpDxiMEccXA",
+   "title": "San English",
+   "handle": "@San-English",
+   "niche": "military",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCDz0e9R4yYhNvPlkK-FxL_w",
+   "title": "The Hidden States",
+   "handle": "@TheHiddenStates-h6t",
+   "niche": "travel documentary",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC01n2ZuiZNXcjz6khHe0OsA",
+   "title": "Cut Recaps",
+   "handle": "@CutRecaps",
+   "niche": "movies",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCuArKe-DilaFD7uFP_DUUvw",
+   "title": "Football Paradise",
+   "handle": "@FootballParadise-10",
+   "niche": "sports",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCzHIoLdss_1M_Iw6OxRKKEg",
+   "title": "geography",
+   "handle": "@geographyscoped",
+   "niche": "future & discoveries",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCaZGq52vehDzh3PU_4yAksg",
+   "title": "The Firearms Vault",
+   "handle": "@firearmsvault",
+   "niche": "military",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCCCMbgHXpLs2I7BZ_CgXxrg",
+   "title": "Secret State Files",
+   "handle": "@Secretstatefiles-i5s",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCVdYTivTdr4IjjvnCmhHqAw",
+   "title": "Caleb Stone",
+   "handle": "@CalebStone-w2b",
+   "niche": "news",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCWhCi2Q0_oXX7rK0_XOtXBQ",
+   "title": "Ivan Jackson",
+   "handle": "@IvanJackson-l7b",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCiuCta-gEY_JVS6Z0d7qj_A",
+   "title": "Dustrialize",
+   "handle": "@dustrialize",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC4eG4bpflnwia15J4Wef33w",
+   "title": "Noxenn",
+   "handle": "@Noxen00008",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCEFuknxOojSTan-93jqNQbw",
+   "title": "After the Boom",
+   "handle": "@AftertheBoomm",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCe5WQdyziWsdVI7XRCSr1YQ",
+   "title": "WALTER | KNOW YOUR RIGHTS",
+   "handle": "@WALTER-n8k-t6x",
+   "niche": "court cases & legal proceedings",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC_tAGAjO1FIyPAlDvjcCqDQ",
+   "title": "Stove & Tell",
+   "handle": "@StoveTell",
+   "niche": "cooking",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCxbtwyQ8wIn2ToPggn9l6ZA",
+   "title": "The Palace Expedition",
+   "handle": "@ThePalaceExpedition-q7s",
+   "niche": "culture",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCW4-cm-BuvUjdEKdsGXX23w",
+   "title": "The Origin",
+   "handle": "@theorigin619",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCe2-i8fY97szDtOhHGamwbA",
+   "title": "HOA Stories Daily",
+   "handle": "@HOA_StoriesDaily",
+   "niche": "society",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCv2sL-VAAMN8piWatCR_SdA",
+   "title": "Mr. Watchman",
+   "handle": "@mr.watchman-yt",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC-a6bCSG3TGcIP7IDGUNYHg",
+   "title": "Prehistoria Hub",
+   "handle": "@PrehistoriaHub68",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCjWK-CiFx_dxrEWxbkId5Kw",
+   "title": "Vanished Worlds",
+   "handle": "@vanishedworldsch",
+   "niche": "disaster stories",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC53wkzZ3aXyeH9-eIgi17WA",
+   "title": "Stickly",
+   "handle": "@SticklyExplains",
+   "niche": "science",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCNQn4VmJVM1KGzmCDrcE9Hw",
+   "title": "CORZIUM",
+   "handle": "@corzium",
+   "niche": "science",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC5RiB1Zmr49q0hU0Zu8s0lQ",
+   "title": "Frontline WW2 Tales",
+   "handle": "@FrontlineWW2Tales",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UC9qmyUdA3T9BvFEleK9z1HQ",
+   "title": "DUTY LENS",
+   "handle": "@Dutylens-01",
+   "niche": "police bodycam",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCWW2O8tc9FkJ_khoJVa89zw",
+   "title": "Fabric Myths",
+   "handle": "@FabricMyths",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCPMMi3LaE-rNSkhiBjBYm7w",
+   "title": "Fleurons Perdus",
+   "handle": "@FleuronsPerdus",
+   "niche": "history",
+   "bucket": "1B"
+  },
+  {
+   "ytChannelId": "UCsYEZah0zh0XCIaOHrkh93Q",
+   "title": "Wild Bird Survival",
+   "handle": "@wildbirdsurvival",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCuC8fauf4XN7wmv7E7UyCZg",
+   "title": "Brothers In Arms Global",
+   "handle": "@BrothersInArmsGlobal",
+   "niche": "news",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLmnyjpVG_0UZwzcLgpEmBA",
+   "title": "Wild Disclosure",
+   "handle": "@Wild_Disclosure",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCfNMaCk38ESUA3kcadq-m2w",
+   "title": "Stateside Stories | Tales of America",
+   "handle": "@stateside-stories-docs",
+   "niche": "society",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCj9WO6zj4d02Ylm87uEZQqQ",
+   "title": "MotorX America",
+   "handle": "@MotorXAmerica",
+   "niche": "autos",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCoymC7a46FHcatvBOAQCIZA",
+   "title": "Discernment Made Clear",
+   "handle": "@discernmentmadeclear",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCDSPwHnGNtl3BCxNUDmSsQA",
+   "title": "The Affluent Mind",
+   "handle": "@TheAffluentMind101",
+   "niche": "personal finance",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCDXp-Kg8OM3JFC_izSoYS-g",
+   "title": "ZD Experiment ",
+   "handle": "@ZDExperiment",
+   "niche": "science",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC4p5uAWz66riw7u_CJdWdMQ",
+   "title": "Under The Pigment",
+   "handle": "@underthepigment",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCBQP2z9Gw2eqfLhe1w1PeuA",
+   "title": "Old Lion Stories",
+   "handle": "@OldLionStories",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCjw4TogAifphMJ8HfZpk22w",
+   "title": "UnderTheHeadline",
+   "handle": "@UnderTheHeadline",
+   "niche": "news",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCmzkwihfGCDEVZN-RQBIhtA",
+   "title": "Wild Wings Survival",
+   "handle": "@WildWingsSurvival-t8l",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCKhpM-cu2Cod-GyG6KngNYg",
+   "title": "Logical Money",
+   "handle": "@LogicalMoney72",
+   "niche": "business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC_I6zf_ZJyjFig7UM3sG8Cg",
+   "title": "Banter Politics",
+   "handle": "@banterpolitics",
+   "niche": "politics",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCUK4joWtURDZyolyXsq_vrQ",
+   "title": "Elvis Uncovered",
+   "handle": "@Elvis_Uncovered",
+   "niche": "celebrity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC3kxXOwdikyRwVeS2v5EQ-w",
+   "title": "Ground Break",
+   "handle": "@Groundbreak0",
+   "niche": "tech",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCB9DLOcuJr1cCcuEylZ23cw",
+   "title": "Encore Transformations",
+   "handle": "@encoretransformations",
+   "niche": "celebrity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCbnM1MOf-0uhMVMruimBqQw",
+   "title": "Bodycam Alert HD",
+   "handle": "@BodycamAlert-HD",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCQJr3dPcRgw4mwtiqY90MlQ",
+   "title": "Stories By Night",
+   "handle": "@Storiesbynight-US",
+   "niche": "lifestyle",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCN6XxorahzAiDNyRnI1of2g",
+   "title": "The Last Day",
+   "handle": "@TheLastDay01",
+   "niche": "future & discoveries",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCL9dJYOmkZe_1_3ET-YEdcQ",
+   "title": "Uncut Interrogation",
+   "handle": "@UncutInterrogation",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC7s4LegZEkSJfkenm0aL-iQ",
+   "title": "Historic Dave",
+   "handle": "@historicdave1",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCBAFICS4yskluzwzwaYTiYw",
+   "title": "Daily Handy Tips",
+   "handle": "@DailyHandyTips-r1h",
+   "niche": "do it yourself",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCFzzcdBDpKgB2JqU7Nd3vgA",
+   "title": "Untold Chapters",
+   "handle": "@UntoldChapters-u6b",
+   "niche": "literature",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCTIySjLA2XBB47jSZP4rdpQ",
+   "title": "Cold Case Redemption",
+   "handle": "@coldcaseredemption",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCw079WltHPnwY8YEkVGI0bg",
+   "title": "Yucky Stew",
+   "handle": "@YuckyStew",
+   "niche": "recreation",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCMAHAv5-NHe_SwtV910PPlw",
+   "title": "Kurogami",
+   "handle": "@Kurogami-d4d",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCNzaOPp0y4KJ2XTF6pVlGTw",
+   "title": "Sagebrush Stories",
+   "handle": "@SagebrushStories1",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC8N9iTDdqDegJT6tpeljVvg",
+   "title": "Calm Father Stories",
+   "handle": "@CalmFatherStories",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCYRYP3idOWwSF1prWi7Wrrw",
+   "title": "Royal Whispers Stories",
+   "handle": "@RoyalWhispersStories",
+   "niche": "theatre",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCV8RemjLe01QEsVFVkqvazw",
+   "title": "Stringer Movies",
+   "handle": "@StringerMediaPlus",
+   "niche": "travel documentary",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCwgn9GXoaStCqwqanfBN6DA",
+   "title": "Graven History",
+   "handle": "@Gravenhistoryofficial",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCRUg889uNZk2PbfSF-20mHA",
+   "title": "Opulent Affairs",
+   "handle": "@OpulentAffairs",
+   "niche": "royalty",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLLJ-cfoTknt4Qfx2gdio4Q",
+   "title": "USA IN WW2",
+   "handle": "@USAINWW2-1945",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCRnjIZrmC5Iz4HOhob-ftlw",
+   "title": "LOG CABIN TV ",
+   "handle": "@Logcabintv1",
+   "niche": "do it yourself",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCdRb22zahTtJgWjyM_ofR9g",
+   "title": "Wood Creation",
+   "handle": "@WoodCreation-m1u",
+   "niche": "do it yourself",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCnu84SFythwqhmEto1IQetw",
+   "title": "Forgotten Bible Stories",
+   "handle": "@TheForgottenBibleStories",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCIl8_C_RxVmRDWz4UTm8aBQ",
+   "title": "History Endures",
+   "handle": "@HistoryEndures-68",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCiD7sizTdtBj2U_S019jRlQ",
+   "title": "RealityZSU",
+   "handle": "@realityZSU",
+   "niche": "news",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC8ubJ_yrY-mY8fZ4ehF3qrQ",
+   "title": "LieLab",
+   "handle": "@LieLab-1",
+   "niche": "science",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCmtNjbVx2k2g69ZfHN-A7Dg",
+   "title": "Everything Professor Compilations",
+   "handle": "@EverythingProfessorComps",
+   "niche": "psychology",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCwEntErZ8CAWoLXWzD-J7CQ",
+   "title": "Simpson Explains",
+   "handle": "@SimpsonExplains",
+   "niche": "tech gadgets",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCDfTct5RH_prnnDE0wMP4RQ",
+   "title": "Gilded Ruins",
+   "handle": "@GildedRuinsTV",
+   "niche": "culture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCiPtnLzvvsHZFBYGQ--kV7w",
+   "title": "Chill Dudes Stories",
+   "handle": "@ChillDudesStories",
+   "niche": "science",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCIDDbWfrYRHmiCVjChEe96Q",
+   "title": "Sprint Icons",
+   "handle": "@SprintIcons",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCHeCe_SPdX7YTH96mUXdsCQ",
+   "title": "CycleWorth",
+   "handle": "@cycleworth",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC0k6PSfTNi7OjSG-IL-19uQ",
+   "title": "Forgotten Earth",
+   "handle": "@ForgottenEarth-v7q",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCeYB6HlHLHJlBE00mP4Epiw",
+   "title": "Second Chance Tales ",
+   "handle": "@SecondChanceTales01",
+   "niche": "theatre",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCO3x8Tslu-w8GjjcA1Ke-RA",
+   "title": "Food Facts Exposed",
+   "handle": "@FoodFactsExposedChannel",
+   "niche": "health",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCzSPJ4Oa5j4W5pHiiTDmtAw",
+   "title": "BibleJourney",
+   "handle": "@BibleJourney-v3h",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCvxRoegNAb2Bb-vbco7zIoQ",
+   "title": "Arun Kumar",
+   "handle": "@Arun-ak-100",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCjwrBssbS5EnXqCmLiWi6nQ",
+   "title": "Nature\u2019s Cleanup Crew",
+   "handle": "@NaturesCleanupCrew",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCj7PyU8m5H9B5rJ9tF3dYTQ",
+   "title": "wildbratTv",
+   "handle": "@wildbratTv",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCv1tvykJNcr7zGuJSCKPh_w",
+   "title": "Earth Archive",
+   "handle": "@EarthArchive10",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCZvpwSGaxaa4_7lI-xArnMw",
+   "title": "Travel Uncovered",
+   "handle": "@TravelUncovered68",
+   "niche": "travel documentary",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC5g68e5D2o7vJVzs1ktzvHA",
+   "title": "TITLE WAVE \ud83c\udf0a",
+   "handle": "@TitleWave12",
+   "niche": "wwe",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCf9O3MaUZAXbUeb5LllhekA",
+   "title": "Stylish60plus",
+   "handle": "@Stylish60plus",
+   "niche": "beauty for elderly women",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC39F32yY4t7MwaNS2j3fq7w",
+   "title": "Epicenter Files",
+   "handle": "@Epicenter_Files",
+   "niche": "disaster and accidents",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCS5uUkwpHS84i6CNTxSQSjA",
+   "title": "Terrafying",
+   "handle": "@TerrafyingWorld",
+   "niche": "architecture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCXHa9wViTf8hhenoIpU6xwg",
+   "title": "WNBA SAVE",
+   "handle": "@WNBASAVE",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC4xatswWsvs81cQSnDrJqsA",
+   "title": "Patina",
+   "handle": "@PatinaYT1",
+   "niche": "culture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UChmQOJAqUrsc1LwrdyHLXOA",
+   "title": "Celeb Note",
+   "handle": "@Celebnote30",
+   "niche": "70,80,90's celebrity news & gossip",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCT_Xt9qDTzfQwke1bVbOY3g",
+   "title": "Royal Age Golden",
+   "handle": "@RoyalAgeGolden",
+   "niche": "royalty",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCnzfEdOaDZPuY-u1IG0utEg",
+   "title": "CrowBranch",
+   "handle": "@CrowBranchGames",
+   "niche": "video games",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCYb6MhBqu3g9eb8PydtTuVw",
+   "title": "Tasman Defence Review",
+   "handle": "@TasmanDefenceReview",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC8BN0c_s2tTAFr_UXRBmKMg",
+   "title": "DWTV Official",
+   "handle": "@DWTVOfficial7",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCl40MDImtmCtsC1S_M1RNXA",
+   "title": "Legacy Boats",
+   "handle": "@legacyboats",
+   "niche": "boating",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCDEAXCwKflQiLx1cOLIx9Iw",
+   "title": "Radius of Crime",
+   "handle": "@RadiusofCrime",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLYrl_RUmdWdNMrDYRMesQQ",
+   "title": "Boneink",
+   "handle": "@Bone_ink",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC5LtkDjXZUIeQfs4s8Zhx7w",
+   "title": "Past Proof",
+   "handle": "@PastProof-w7z",
+   "niche": "myths and folktales",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCxD3igvI44lW2N3WqmFndnw",
+   "title": "Uncharted with Mike",
+   "handle": "@UnchartedwithMike",
+   "niche": "folklore",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCbvmhRY2Ay6er_RCfaNoEeg",
+   "title": "Serene Dreamlands 8K",
+   "handle": "@SereneDreamlands8K",
+   "niche": "travel",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UChy3kkOvJ3tizQJKPhdOGOA",
+   "title": "Marcus Cole",
+   "handle": "@MarcusColeLaw",
+   "niche": "society",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCI4ZEe4o4HAZNKF55WySO7Q",
+   "title": "Every Knows",
+   "handle": "@EveryKnows-AZ",
+   "niche": "myths and folktales",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCAacFG-Z5GuE3FXiqoKIZsA",
+   "title": "Warlines",
+   "handle": "@Warlines-d8z",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCjpUuL5eXu8QeuiqPE8XaIQ",
+   "title": "Zoxi ",
+   "handle": "@Zoxifox",
+   "niche": "myths and folktales",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCMrvKDTb2p7wH5gafbDiWWg",
+   "title": "Hostile Planet",
+   "handle": "@hostileplanet4k",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCidqAQ2CxzBp4OYzapEu_og",
+   "title": "Consumer Truth",
+   "handle": "@consumertruthyt",
+   "niche": "health",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC0wZzugMJA2mQ7CTMNqeExw",
+   "title": "Fork Lore",
+   "handle": "@ForkLore-k4j",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCNkDjEOw0s9atGHkr1ahMxg",
+   "title": "PowerChip",
+   "handle": "@PowerChip-b3f",
+   "niche": "business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCEzrcp8suDtbpeD-UOkB6Uw",
+   "title": "Only Interrogations",
+   "handle": "@Only_Interrogations",
+   "niche": "investigative documentaries",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCFZ_h_YPm3lRy_Eg4mxqMfA",
+   "title": "The Ocean Planet",
+   "handle": "@TheOceanPlanet4K",
+   "niche": "science",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCrckY2RlTo9ougguQ1M59_w",
+   "title": "NEXA",
+   "handle": "@Nexa_3958",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC2gIZShLcbqXYovfm_LHB2w",
+   "title": "The Legacy of Bruce Lee",
+   "handle": "@TheLegacyofBruceLee",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCH_e1CrnqX8p3b_-twWwicw",
+   "title": "Dollar Wise Living",
+   "handle": "@DollarWiseLiving",
+   "niche": "small business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCrjhOc5C2ZU-q5mshRukG-w",
+   "title": "Gotex Ball",
+   "handle": "@GotexBall",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC356D-NzdnznBOftTpYoBLw",
+   "title": "Dr. Ares Senior",
+   "handle": "@Dr.Ares-YT",
+   "niche": "health",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCszhegi25bWXVOHZweYL59A",
+   "title": "Meridian",
+   "handle": "@Meridian-p7l",
+   "niche": "disaster and accidents",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC8cLgGkB7sbv-of5ZWPcYNg",
+   "title": "HEX",
+   "handle": "@hex-tvs",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCVY3w_1AFwz--kZF3HzNqoA",
+   "title": "The Descent Record",
+   "handle": "@TheDescentRecord",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCWDdVidCCShnK-QM464A2lw",
+   "title": "Archivos del Corrido",
+   "handle": "@ArchivosdelCorrido-p4o",
+   "niche": "investigative documentaries",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCCi4Rc-b3ob-XE0pcWZRKYQ",
+   "title": "CLARK UP MEDIA",
+   "handle": "@CLARKUPMEDIAyt",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC72xC428vSw2uIir0xX630w",
+   "title": "Bruce Lee Hidden Story",
+   "handle": "@HiddenStoryLee",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC6aTRcVR6d-H80WNzY058Sg",
+   "title": "WLS Zone",
+   "handle": "@wlszone",
+   "niche": "disaster and accidents",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCmpG7TBjKzETPpbP6F1AXPA",
+   "title": "Lost Roads",
+   "handle": "@lostroadsyt",
+   "niche": "travel documentary",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCmQGoKsvZLovH3Jg_k4LXsw",
+   "title": "Oldways Britain",
+   "handle": "@OldwaysBritain",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLPq1JQKQwCD8zBpo-qVdjA",
+   "title": "Ancient Human Files",
+   "handle": "@AncientHumanFiles-t5r",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCyqObBgxCK_SzG5Axz6LRyQ",
+   "title": "The Greatest Homes",
+   "handle": "@TheGreatestMansions",
+   "niche": "architecture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCUKn0Pn8KdpKP8gQLEfjFWw",
+   "title": "William",
+   "handle": "@Williamtv-z9e",
+   "niche": "future & discoveries",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCV7NHGd39D0o84f2GUmXMvw",
+   "title": "IndustriMade",
+   "handle": "@IndustriMade",
+   "niche": "engineering",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCuKkylVKNCsGJgGcDrGJSmg",
+   "title": "Richard Uncovers Humanity",
+   "handle": "@RichardUncoversHumanity",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC13oiUQQochn-nKvM9tBOYg",
+   "title": "Bridgehead",
+   "handle": "@bridgeheadhistory",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCTsYQOBJZR57hDuczrn8IPQ",
+   "title": "The Lost Species ",
+   "handle": "@TLSpecies",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC_OuzE8JSzj5jPNHCSl6K_w",
+   "title": "Floridian Living",
+   "handle": "@FloridianLiving",
+   "niche": "travel",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCyUSvfFfkyCxyBwzS5wI8zg",
+   "title": "Kelly Takeover",
+   "handle": "@kellyMaxini",
+   "niche": "politics",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCbXFcDzARvkQtVQvl1UeNKw",
+   "title": "What Farms Hide",
+   "handle": "@WhatFarmsHide",
+   "niche": "agriculture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCpzcJ73_cca9RUkOnynUa7g",
+   "title": "Daly News Truth",
+   "handle": "@DalyNewsTruth",
+   "niche": "news",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCws1gUMrOTFkqg-Bf50qsXg",
+   "title": "Battle Logic",
+   "handle": "@BattleLogicTV",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCOg7LzZbA-K4zNTY6voztnA",
+   "title": "AceSphere",
+   "handle": "@AceSphere1",
+   "niche": "tennis",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCYRSbcS4pHHPe0dJRg560rQ",
+   "title": "Signal Cam",
+   "handle": "@Signal_Cam",
+   "niche": "police bodycam",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCXTcUDf2pfxDdaB7zVDioJw",
+   "title": "Final Revision",
+   "handle": "@FinalRevision-d5d",
+   "niche": "soccer",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UClJk8Aka_g1PqV87YTFeQIw",
+   "title": "Forgotten Fables",
+   "handle": "@ForgottenFables-c2r",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCa922wskSkVE6JV4m0Cmaig",
+   "title": "F1 Race Bulletin",
+   "handle": "@F1RaceBulletin",
+   "niche": "motorsports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCRHip9LttBfiR5WOZSiOi5w",
+   "title": "Level Lives ",
+   "handle": "@LevelLivespov",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCA0G9KHAh1TnRwt6t7GhEfw",
+   "title": "Haalandians",
+   "handle": "@Haaland-ians",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCbEyUOPiOvMn8IhSKOyxvwg",
+   "title": "The Silent Ruins",
+   "handle": "@officialTheSilentRuins",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCJSNtGRYjv07B1MPftnYoxg",
+   "title": "Planet Travel TV",
+   "handle": "@PlanetTravelTV",
+   "niche": "travel",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCiC6nWXnyYrc3n1XgKK-_Fw",
+   "title": "South Carolina Uncovered",
+   "handle": "@SouthCarolinaUncovered",
+   "niche": "lifestyle",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLa9zjG7QxtgaZOpWAtt7xw",
+   "title": "Royal Family Focus",
+   "handle": "@RoyalFamilyFocus",
+   "niche": "culture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCj7dn7avpKH8wl9cr5A1DYA",
+   "title": "Umbra",
+   "handle": "@UmbraAlerts",
+   "niche": "space & exploration",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC3g2QaKghC8fYtegpPtLKJA",
+   "title": "WA SLOW MOTION SPORTS",
+   "handle": "@waslowmotionsports",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCgJDduibmpWFYBA1Op7T98Q",
+   "title": "The Fame Insider",
+   "handle": "@TheFameInsider-1",
+   "niche": "celebrity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCdxA8IhFLirF67TpFLPllrA",
+   "title": "Yoru Kai",
+   "handle": "@Yoru.KaiCap",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCS7jbLQGHnS3_EVv6QLt8zg",
+   "title": "Aussie Food Watch",
+   "handle": "@aussiefoodwatch",
+   "niche": "nutrition",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLEkjLaaKaLmLWLt82hkj4Q",
+   "title": "Steel At War",
+   "handle": "@SteelAtWar",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCuzGGKdz8w5hurrM7_5tJzg",
+   "title": "Field Record TV",
+   "handle": "@FieldRecordTV",
+   "niche": "police bodycam",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCI0yw7kT5NkWI6yW6e8l43g",
+   "title": "BENT STATS",
+   "handle": "@BentStats",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCvfkRVPE4spzSHXbTfL5eSg",
+   "title": "Jiang Strategic",
+   "handle": "@JiangStrategic-h9u",
+   "niche": "politics",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCtVdTW2RPnH1LL4PtTizpEA",
+   "title": "Air Force Stories",
+   "handle": "@AirForceStories",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCHgokkoAvLu6CyhwIbz6LSQ",
+   "title": "British SAS Stories",
+   "handle": "@BritishSASStories",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC3r50fpxB2Y5zioe-hlkQxQ",
+   "title": "Speed Academics",
+   "handle": "@SpeedAcademicsChannel",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCxshRXQ6E15YnJcaY3v5u0w",
+   "title": "Tony Talks Business",
+   "handle": "@tony99.studios",
+   "niche": "business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCIYZ7IFNVm4peNwuhRQC0cw",
+   "title": "The Invasive Files",
+   "handle": "@TheInvasiveFiles",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCcs4leaOc7n5m1P1wnlkHsw",
+   "title": "The Bible Stories Jesus",
+   "handle": "@TheBibleStories-Jesus",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCSIZ7Juq1t1six5rd31D9SA",
+   "title": "Her Crime Stories & Mysteries",
+   "handle": "@HerCrimeStoriesMysteries",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCJ2aS35UesWioJORV3pEbAQ",
+   "title": "Last Cartographer",
+   "handle": "@LastCartographer",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCwhfTvyLeH7nCjdacQVoaeg",
+   "title": "Frontline Impact",
+   "handle": "@frontlineimpact",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCKyolh-sZYyg1AFRhMuUmjA",
+   "title": "British Records",
+   "handle": "@BritishRecords-d9x",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC-e95X52SNfFQtzCfdSgACg",
+   "title": "Courtroom Chronicles",
+   "handle": "@CourtroomChronicles-o9w",
+   "niche": "court cases & legal proceedings",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCLRgu4IPhXvspNP1GU2Qk3A",
+   "title": "Chosen Elite",
+   "handle": "@ChosenElite-i5z",
+   "niche": "myths and folktales",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC5Mh5lYUFyxrA5POb6u-dXQ",
+   "title": "Duke Updates",
+   "handle": "@DukeUpdates-t9v",
+   "niche": "royalty",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC8ipyP6Trh7ULhnrSrmzQtg",
+   "title": "Roberto Explains",
+   "handle": "@roberto-955",
+   "niche": "movies",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UChKlBr2OlSafGOd89RDp6oQ",
+   "title": "Made In America ",
+   "handle": "@MadeinAmerica-z5d",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCcsQf3nDqM8o3O2BJhOTimQ",
+   "title": "INKTROOPS",
+   "handle": "@inktroops",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCFFJqa3pFSiXyFjfnQsUxqA",
+   "title": "The Quiet Wild",
+   "handle": "@QuietWILD-h7y",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC2_bCuK6fin_b5kBS6ZGGVA",
+   "title": "Wild Beginnings",
+   "handle": "@WildBeginnings1",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCHmUdzAriQFEEmx4513q2kw",
+   "title": "Lost Legacy Files",
+   "handle": "@lostlegacyfiles-llf",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCJMnnBObNHHlbzItFEWFJpw",
+   "title": "Kaltentod Craft",
+   "handle": "@KaltentodCraft",
+   "niche": "minecraft",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCSOl_iT3qrwcsfXuMpFd_1w",
+   "title": "WW2 Ruins",
+   "handle": "@WW2Ruins-t6q",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCcroWnSo5j3Wes9NjF4x94Q",
+   "title": "Crime in Australia",
+   "handle": "@crimeinaustralia",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCf-eCs1b91KnnrEyEQFge-Q",
+   "title": "The Catholic Comeback - by Jonah",
+   "handle": "@TheCatholicComeback",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCefg0UkME-2WgV_j231Sf0w",
+   "title": "The Naoshi Method",
+   "handle": "@NaoshiMethod",
+   "niche": "do it yourself",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC3PwuepPoJA-OlFbEFD2hHw",
+   "title": "Marcus Explains",
+   "handle": "@MarcusExplainsHQ",
+   "niche": "business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCkm4RNrAasb4--uNpOEASGA",
+   "title": "Wild States",
+   "handle": "@WildStates-p4t",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC41CAgGX8eqDmmZ8tzCZG5Q",
+   "title": "Gnostic Sleeper",
+   "handle": "@GnosticSleeper",
+   "niche": "religion",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCbzvo7kPUIbsLZfCBEqgwAA",
+   "title": "Robert's Football Talk",
+   "handle": "@robertsfootballtalk",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCXiJ54ZTfNiUah2OGaA4AKA",
+   "title": "The Karma Verdict",
+   "handle": "@TheKarmaVerdict-j5u",
+   "niche": "society",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCntnmZ_6XgltSEfmE_wyTow",
+   "title": "Dark Wild Archives",
+   "handle": "@darkwildarchives-u7k",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCU0PXgVqqFaPlh1vt5jpbqw",
+   "title": "Red Shadow",
+   "handle": "@RedShadow-d4g",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCOzaXxxcJHiR7UaQvhS8udw",
+   "title": "CANON FODDER",
+   "handle": "@Canon_Fodder",
+   "niche": "animation",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCH2kRj7VqxJpURcwq_bp3GQ",
+   "title": "Digital Dive",
+   "handle": "@DigitalDive64",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC8451PlOxZVsepgTxlX0QYQ",
+   "title": "Rogi",
+   "handle": "@rogikai",
+   "niche": "tech",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCHCHcGMkCZt0TbchB5umlnA",
+   "title": "Old American Empires",
+   "handle": "@oldamericanempires",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCXM2jD0346lD91TEzPhH54Q",
+   "title": "Earth Unknown",
+   "handle": "@EarthUnknown66",
+   "niche": "travel documentary",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCSkJEF9XeQ7q3VPEZWDLDOw",
+   "title": "German Frontline",
+   "handle": "@GermanFrontline",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCC31PSVnQNkjhkXSGcecrJQ",
+   "title": "Heaven's Scroll",
+   "handle": "@HeavensScroll",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCopYjDdiqF79Ft4SrMNTakg",
+   "title": "Gabs",
+   "handle": "@thisizgabs",
+   "niche": "science",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCnH1VXeknnOSWMZ-_tgpRCg",
+   "title": "Her Second Act",
+   "handle": "@HerSecondAct-n8p",
+   "niche": "theatre",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC7oel5zQ_oZLvSInHfSTK6A",
+   "title": "BL Omegaverse Chronicles",
+   "handle": "@BLOmegaverseChronicles",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCIFctddAVs--VgghkOE3ITg",
+   "title": "Secret Slaves of America",
+   "handle": "@SecretSlavesofAmerica",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCOzMjotRAy6y4f58wUSJsaQ",
+   "title": "Hidden History",
+   "handle": "@HiddenHistory-379d",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCulgZvMqq12Sa9s9UxhndNA",
+   "title": "Learn Physics",
+   "handle": "@LearnPhysicsChannel",
+   "niche": "science",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCc8NmxOEmggSDYrKO324TZw",
+   "title": "Tech Unfiltered",
+   "handle": "@TechUnfilteredleaks",
+   "niche": "artificial intelligence",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCWhCOkIExqh5XwcJdWYKAfg",
+   "title": "Scandinavian Secrets",
+   "handle": "@ScandinavianSecrets",
+   "niche": "society",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCKPWTeWCTYHzp-8mgjd89fA",
+   "title": "Military Gray",
+   "handle": "@MilitaryGray",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCGIqJfjrs6erd_uVNlJR1yg",
+   "title": "The Windsor Lens",
+   "handle": "@TheWindsorLens-x1i",
+   "niche": "royalty",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCgeJOt7CXtB13xAHHAkACxw",
+   "title": "America\u2019s Lost Weapons",
+   "handle": "@AmericasLostWeapons",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCI53kpaC3jtCeHGaNgxWI4Q",
+   "title": "Gray Economy",
+   "handle": "@GrayEconomy-d4b",
+   "niche": "investing",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCPBPQMrgFgccq53LbiXdspg",
+   "title": "Tape Rolling",
+   "handle": "@TapeRolling",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCeK5KBur_TfVTjcBlUJWaLw",
+   "title": "Roots of Royal Families",
+   "handle": "@RootsofRoyalFamilies",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCvBH0cuT42c89Eie-HrRnuA",
+   "title": "Lifeways Travel",
+   "handle": "@LifewaysTravel",
+   "niche": "travel documentary",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCUtiT92khBLMCUywH23vfhA",
+   "title": "Mars Manhwa Teller",
+   "handle": "@MarsManhwaTeller",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCQzHHzFb2lK0EyXmGPQWp3w",
+   "title": "WW2 Air Stories",
+   "handle": "@WW2AirStories",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCnmYX-ucB-4b7dCixREnv8g",
+   "title": "Crime of Love",
+   "handle": "@CrimeOfLove247",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCx2Puo_EA23EnPZUusF55SA",
+   "title": "Milsim Times",
+   "handle": "@MilsimTimes",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCip7yKHhFM8hgUmKPj3GZww",
+   "title": "history mick",
+   "handle": "@historymick",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCuBv7yVDhUuVkjOpAdYBZxw",
+   "title": "The Maple Life",
+   "handle": "@themaplelifechannel",
+   "niche": "travel documentary",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCYdyEPIne702J9Eg1zGudWg",
+   "title": "Ivan's Journal",
+   "handle": "@ivansjournal",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCjjuZ24mtxPHi9aQAuHfL8Q",
+   "title": "Mogo",
+   "handle": "@MogoYoutube",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCzf_99XSwzOkgNbmaou0-lA",
+   "title": "HARRY UNFILTERED",
+   "handle": "@harryunfiltered-q4l",
+   "niche": "politics",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCbBzhV6T6a9LFSkQ-fQXKsA",
+   "title": "Wild Conflict",
+   "handle": "@WildConflict00",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC3lxN1fRg59gueFmF0htoFA",
+   "title": "zalaAnimation",
+   "handle": "@zalaAnimation-516",
+   "niche": "theatre",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UChZ-Woxd_GdWTdtJejguCXA",
+   "title": "Behind The Factory Work",
+   "handle": "@BehindTheFactoryWork",
+   "niche": "business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCk5LtXavEVMtqMaLgaZzMlg",
+   "title": "Manga Sarubedo Fantasy",
+   "handle": "@MangaSarubedoFantasy",
+   "niche": "anime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCOrmG9R3iRX64MRFws_mJRQ",
+   "title": "inverted novel",
+   "handle": "@invertednovel-f5k",
+   "niche": "theatre",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC-_9SORVIpjReF0u-qdhBjw",
+   "title": "Donde Callan los Caminos",
+   "handle": "@DondeCallanlosCaminos",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCQZ8cXpG0XrVyfMXuCKz-XQ",
+   "title": "Medieval Library",
+   "handle": "@MedievalLibrary-z2l",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCYPY4wIHPmVn_wMEtIeFCmw",
+   "title": "Kaboom",
+   "handle": "@KaboomHistory",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCexGhy9qhpsCkJsHYhHHW3Q",
+   "title": "SWOT",
+   "handle": "@swotfm",
+   "niche": "tech",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC61ZI_XPhu134RDhbP3xPXw",
+   "title": "Dark Roots Mysteries",
+   "handle": "@DarkRootsMysteries",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCD0lXF319it_QtWZ8qeOtAg",
+   "title": "PropertyScope",
+   "handle": "@PropertyScope-c2d",
+   "niche": "real estate",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC0SmgKhGsHI1pdwNULpFxKg",
+   "title": "Sleepy Time Origins",
+   "handle": "@SleepyTimeOrigins",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UChQo10VVkL9q45ZHo9boEcw",
+   "title": "Perfect Home Decor",
+   "handle": "@PerfectHomeDecor-e6i",
+   "niche": "architecture",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCJwU8vYT5SRuTwBJ0H39kCg",
+   "title": "MoviRank",
+   "handle": "@Movirank1",
+   "niche": "movies",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCNdlD8Yli6IENNJqnSCF8mQ",
+   "title": "Velvet Society",
+   "handle": "@VelvetSociety-s7l",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCxIDsWJd_-Zf3xw7nvSLMWA",
+   "title": "WW2 Diaries",
+   "handle": "@WW2Diaries12",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC1nYVdCZZr7XgeKlXEXAIww",
+   "title": "Can It Code?",
+   "handle": "@CanItCode",
+   "niche": "game development",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCIuYX0IG6Aeq7AmSys0fMXw",
+   "title": "Luxury Garden Escapes",
+   "handle": "@LuxuryGardenEscapes",
+   "niche": "do it yourself",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCiW7DqPmBFXiSSb3KvK44Bw",
+   "title": "Tatami Codex",
+   "handle": "@TatamiCodex",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCzLO91Gv09ND9qKb2NxHVGA",
+   "title": "CHELSEA VISION \ud83d\udd35",
+   "handle": "@vision-ypp",
+   "niche": "sports",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCaOagquwu6EZ9ebiEod-d-Q",
+   "title": "The Execution Archive",
+   "handle": "@TheExecutionArchive",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCtdbCWgUWPgSI59cp-xaYsQ",
+   "title": "Shikingz Recaps",
+   "handle": "@ShikingzRecaps",
+   "niche": "movies",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCh4c-AzFUt8TdxqaqD20veg",
+   "title": "Dominion Defence Review",
+   "handle": "@dominiondefencereview",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC-FDHlZFrlXDGAGoKmrsEfQ",
+   "title": "Aussie Crimes",
+   "handle": "@aussiecrimes",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCL7kJuKYdCKG5-97qK1xqoQ",
+   "title": "Forgotten Inheritance",
+   "handle": "@ForgottenInheritance-p8w",
+   "niche": "life stories",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCKipna1krnA1hBPsWZPC_ow",
+   "title": "The Narrow Road",
+   "handle": "@TheNarrowRoad-s7m",
+   "niche": "christianity",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCmaJGQ5TZbJDnrr2XCGjUFg",
+   "title": "Crime Chapters",
+   "handle": "@CrimeChapters1",
+   "niche": "investigative documentaries",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCwC68CcfhN5dT0JvZ-wRRCw",
+   "title": "Military Valen",
+   "handle": "@MilitaryValen",
+   "niche": "military",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UChdtozaaHyr9-f0BU9Iz1GA",
+   "title": "Rombo",
+   "handle": "@Rombo-d3d",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCuXKvXjbFXWmXMJ3JzKF9aA",
+   "title": "Wild Blurt",
+   "handle": "@Wildblurt",
+   "niche": "wildlife",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCOVxVI9V9MJNe1VrsC6qWBg",
+   "title": "Cage Night MMA",
+   "handle": "@CageNightMMA",
+   "niche": "ufc & mma",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCMreSBoyc8kVBNoqV9FW6Ew",
+   "title": "Blue Chronicle",
+   "handle": "@bluechronicle-tv",
+   "niche": "crime",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCUEEJ9GsQEwdV17uDXqpwjw",
+   "title": "MONEY IQ",
+   "handle": "@MoneyIQTalk",
+   "niche": "business",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UC-B3lZz1lPkReZ_m5xUDtPw",
+   "title": "Ancient Nathan",
+   "handle": "@AncientNathan",
+   "niche": "history",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCFQsumzno9wmtG4jNi-7r8w",
+   "title": "Jets Logic",
+   "handle": "@JetsLogic",
+   "niche": "aviation",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCyxhs4EhxFUhlgMBdyOLO5w",
+   "title": "Foodora Quest",
+   "handle": "@FoodoraQuest",
+   "niche": "cooking",
+   "bucket": "2A"
+  },
+  {
+   "ytChannelId": "UCiK9ODIN1_AEte6eV7m7jZA",
+   "title": "Underwater Earth 4K",
+   "handle": "@UnderwaterEarth4K",
+   "niche": "travel documentary",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCyKJbwWdVreG90Ox3ijEdPw",
+   "title": "Fantastic Badminton",
+   "handle": "@FantasticBadmintonCN",
+   "niche": "sports",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCp53SfSiLUCpNKaIoepPmhA",
+   "title": "Yogiri Recap",
+   "handle": "@Yogirirecap",
+   "niche": "anime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC0w1d6Hny6WWtrq8nASNKSA",
+   "title": "Causality",
+   "handle": "@causality_labs",
+   "niche": "space & exploration",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCkKU394DjndjgF4tm2sregA",
+   "title": "Wildlife zone",
+   "handle": "@Wildlifezone-h9u",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC724Jsg_qtmMIAqKPPLsBog",
+   "title": "Breaking Bodycams",
+   "handle": "@breakingbodycams",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCuRdG8jvao58DWP8lHKSYbQ",
+   "title": "L'univers D'amina",
+   "handle": "@LuniversDaminaa",
+   "niche": "life stories",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UClVmPVF1AxBkx-hcA371RoQ",
+   "title": "Wrongly Assumed",
+   "handle": "@WronglyAssumed",
+   "niche": "science",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCRwdQaWvpUJ2u573ME0Cyrw",
+   "title": "Top Wood Tips",
+   "handle": "@TopWoodTips",
+   "niche": "crafts",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCXEGx-tXzAUWgLNjDxlt1Kw",
+   "title": "DIY Furniture",
+   "handle": "@DIYFurniture-m7x",
+   "niche": "do it yourself",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCkaBZYQF_F-1pwiK9WGoTfQ",
+   "title": "Raw Animals Footage",
+   "handle": "@RawAnimalsFootage",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCVQ6PfvArbOwvbaySSqnsMQ",
+   "title": "History Mark: Exposed",
+   "handle": "@HistoryMarkExposed",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCdi-rTleLSNBYEVOWuAic5w",
+   "title": "Paint Maniac",
+   "handle": "@PaintManiac-u5v",
+   "niche": "internet culture",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCH0fYAmg-lg8BauZAthSMrg",
+   "title": "Mido Explained",
+   "handle": "@MidoExplained",
+   "niche": "engineering",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCQ9E1aC-uPscclk79tp1Alw",
+   "title": "Behind Detective's Mind",
+   "handle": "@BehindDetectivesMind",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCkTA35rUjdRcWAAojUvYjAg",
+   "title": "The Greatest Graves",
+   "handle": "@thegreatestgraves",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC5UWss8c9xKDpZBu2FtUsYA",
+   "title": "Pearl Stories",
+   "handle": "@pearlstories45",
+   "niche": "society",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC3EKCFJ6wrcq5V1qK7FI1yw",
+   "title": "The Morrow Page",
+   "handle": "@TheMorrowPage",
+   "niche": "society",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCtHSufHULdY5p2G-2PnGNQw",
+   "title": "Null Source",
+   "handle": "@NullSource-d4v",
+   "niche": "myths and folktales",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCaq2ZwSWw3mg-wjoIIrGuMg",
+   "title": "Saving Animal Centers",
+   "handle": "@savinganimalcenters",
+   "niche": "pets rescue",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCg8Un63TgJxVylPNqu_JE2g",
+   "title": "Stories HFY Galaxy",
+   "handle": "@StoriesHFYGalaxy",
+   "niche": "scifi stories",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCN1KGDP4hXkp_ukWIdVV7MA",
+   "title": "Bible Truth Zone",
+   "handle": "@BibleTruthZone-hd",
+   "niche": "christianity",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCdHNugzpn3Jia7rWrqZfBPA",
+   "title": "BittenPear",
+   "handle": "@BittenPear",
+   "niche": "tech",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCKY38-261Od_sVIXE5vHCvw",
+   "title": "Nyx Recaps",
+   "handle": "@NyxRecapsReal",
+   "niche": "anime comic dubs",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCqlJ7o2yf75PRxPOA0fCMsg",
+   "title": "How Ships Work",
+   "handle": "@howshipswork1",
+   "niche": "travel documentary",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCbDXk5dxhV-iDGLu4wnti7Q",
+   "title": "British SAS Tales",
+   "handle": "@BritishSASTales-d1v",
+   "niche": "military",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC2-0LGfMzc-Qlp9k8vK4CVQ",
+   "title": "Red Flag Unit ",
+   "handle": "@RedFlagUnit",
+   "niche": "society",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCXfUl8O2X6OKVvm4TvKlJug",
+   "title": "ICONIC - WOMEN OVER 50",
+   "handle": "@ICONIC-WOMENOVER50",
+   "niche": "lifestyle",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCmAqofaR4vnDiGPVEjwD-9A",
+   "title": "Aussie Money Fix",
+   "handle": "@AussieMoneyFix",
+   "niche": "personal finance",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCElMKzapdJqiKvRBO-Aterg",
+   "title": "Tactical Genius",
+   "handle": "@TacticalGeniuss",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCOCnMlXdFM9Up4Yt3lWZAxg",
+   "title": "Guyanese Memories ",
+   "handle": "@GuyaneseMemories",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCFNB-9FQVT7UMoiKIampIpg",
+   "title": "Gorgeous bird",
+   "handle": "@Gorgeousbird",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCp9Jdf2TDbvFHywuaTAxDJA",
+   "title": "The Red Keep",
+   "handle": "@TheRedKeep-h3w",
+   "niche": "television",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC37zb4pA7p2iIrG3BbmZNfg",
+   "title": "Karen Karma",
+   "handle": "@KarenHOAKarma",
+   "niche": "society",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCHd-8sQw1mK9OI-9JTejfTA",
+   "title": "Uscene Cinema",
+   "handle": "@UnsceneCinema-z8c",
+   "niche": "movies",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UClVLjM4LTsjzve5qGWN6Dpg",
+   "title": "Victorix",
+   "handle": "@Victorix_TV",
+   "niche": "motivational videos",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCtjLZANkZ4YMDMfmjABnp-w",
+   "title": "Margin",
+   "handle": "@marginread",
+   "niche": "math",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCcITHE3sPbjJwj_X57iQfAQ",
+   "title": "The Final Act",
+   "handle": "@thefinalactofficial",
+   "niche": "court cases & legal proceedings",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCDvcB5OqE1CY66IZtKKadxg",
+   "title": "Range Shift",
+   "handle": "@RangeShiftUSA",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCT6lv8Zax6jfYPLqFA9SBig",
+   "title": "Saving Lives At Sea",
+   "handle": "@SavingLivesAtSeaOfficial",
+   "niche": "disaster and accidents",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCKFFehBpaBTwZFfoMRmxCXw",
+   "title": "Splintered",
+   "handle": "@Splintered-Crime",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC3ibm5Qs1y0L573x1KasyaA",
+   "title": "The Global Index",
+   "handle": "@TheGlobalIndex1",
+   "niche": "news",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCthQ-7c7vR3eJMJjARQL8OA",
+   "title": "YourTolkienGuy",
+   "handle": "@YourTolkienGuy",
+   "niche": "myths and folktales",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCL_k2tOxExsG-nkXZ1celKA",
+   "title": "Evo Explainer",
+   "handle": "@Evoexplainer-tv",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCD-WtXcqPrrlBpZxSNp1ukg",
+   "title": "Ancient Aussie",
+   "handle": "@AncientAussie2",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCUmCN3jKlOr8HKa-doSyNOg",
+   "title": "True Talk Football",
+   "handle": "@TrueTalkFootball001",
+   "niche": "sports",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCWu5ZvVK3WyLZs2gymufjqg",
+   "title": "Harry Johnson \u2014 History",
+   "handle": "@HarryJohnsonHistory",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCDEbL0F-BWpZCtmFhJDIdKg",
+   "title": "MadeCN",
+   "handle": "@MadeCN",
+   "niche": "science",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCtUMIKuh9k-FiMEwXRVLgrA",
+   "title": "Dustborn Legends",
+   "handle": "@DustbornLegends",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCDLINT0o_8a0kObYN5bBqUw",
+   "title": "Rick Finance",
+   "handle": "@RickFinance1",
+   "niche": "personal finance",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCoNHzJcNQlWweq9RX5JHQ9w",
+   "title": "Finn Xplains",
+   "handle": "@FinnXplains",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCSX5IdkfsBIeO5rdLFD5xCg",
+   "title": "Forgotten American School Days",
+   "handle": "@ForgottenAmericanSchoolDays",
+   "niche": "nostalgia",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCw2zVY9OyV0pY4oqRzzDYxA",
+   "title": "EON ATLAS",
+   "handle": "@eonatlas",
+   "niche": "travel",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCBWxZUOXXs5G6sE3ZaUR3SQ",
+   "title": "Moon Over the Fields",
+   "handle": "@MoonOvertheFields",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCWwCEHGxwFkf2Zf36mlEAug",
+   "title": "Military Studio",
+   "handle": "@MilitaryStudio",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCSBl9ju7m_sCm9ewJFSDgYw",
+   "title": "Factory Insight Hub",
+   "handle": "@FactoryInsightHub",
+   "niche": "agriculture",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC3rCL45joFq_rQiBuWjvpSw",
+   "title": "Letters from Britannia",
+   "handle": "@LettersfromBritannia",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC-Tsr1zsg1AQDEnN3panTFw",
+   "title": "Apex Arena",
+   "handle": "@ApexArena-s7u",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCAwJ5TfKqjDMYxEQxPR0whw",
+   "title": "Boyd's Bench",
+   "handle": "@BoydsBench-m1l",
+   "niche": "court cases & legal proceedings",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCm2Ici7s2YAjPDPKCOxt8-w",
+   "title": "Inside Japan Living",
+   "handle": "@InsideJapaniving",
+   "niche": "lifestyle",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCU1SDWLllnwXKnnPPsLFqbA",
+   "title": "The Crime List",
+   "handle": "@thecrimelist1",
+   "niche": "court cases & legal proceedings",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCl9ue2Z6d4mlEjoYDtQW3RA",
+   "title": "The Watchroom",
+   "handle": "@TheWatchroomTV",
+   "niche": "disaster and accidents",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCJ0YXKiSf5ElD_Vd-euwI3Q",
+   "title": "American Wilderness Survival",
+   "handle": "@AmericanWildernessSurvival",
+   "niche": "rural living",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCDn53CetEoAKvpplsmanCRw",
+   "title": "Across America",
+   "handle": "@scenic_america",
+   "niche": "travel documentary",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCC4Jpyor18GUJD4eqnioKPw",
+   "title": "From Egg to Survivor TV",
+   "handle": "@FromEggtoSurvivorTV",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCHoPnZX0nEyb8CltCwyIW9g",
+   "title": "Gloww",
+   "handle": "@Gloww3d",
+   "niche": "aviation",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCuKq9YZ3-whA3Y3wqa7kSoQ",
+   "title": "Hoop Galaxy",
+   "handle": "@HoopGalaxyYT",
+   "niche": "sports",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCk2jA1p-Uo2ydhTaOFoCwdA",
+   "title": "MUSCLE ANATOMIX",
+   "handle": "@MuscleAnatomiX-Workout",
+   "niche": "fitness",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC7A7YuKzTxOGRbNcrY3xq5w",
+   "title": "Badges & Chrome",
+   "handle": "@badgesandchrome",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCtfHq0KbcSzLGNb9mWk9htg",
+   "title": "Sleepy Time Mystery",
+   "handle": "@SleepyTimeMystery",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCA7UYfa7U5AnOqyJkM0wOPA",
+   "title": "Healing TaiChi Flow",
+   "handle": "@HealingTaiChiFlow",
+   "niche": "health",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCQeGDpOZVe-WZLqyFta7Gmw",
+   "title": "Sleepy Historical Society",
+   "handle": "@SleepyHistoricalSociety",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCkedbaiNbbfp9W3xmz2jhAg",
+   "title": "The Sleepy Solstice",
+   "handle": "@TheSleepySolstice",
+   "niche": "space & exploration",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCmB3GUOOlU2Ab6K1J9_k2EQ",
+   "title": "Humanity Timeline",
+   "handle": "@HumanityTimeline-m5c",
+   "niche": "future & discoveries",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCQiq0KNZKEXPgNy-pbqRDBw",
+   "title": "Eastern Engine",
+   "handle": "@EasternEngine",
+   "niche": "news",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCWiEUUw1LDQX1fxTMBuWJbA",
+   "title": "Fauna",
+   "handle": "@fauna00",
+   "niche": "wildlife",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCdfw5Jn0zZjIre8VeY7M_nw",
+   "title": "True Crime Records YT",
+   "handle": "@TrueCrimeRecords-YT",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCHlq-mOvKbWAZrVjsaF6Fdw",
+   "title": "Empathix",
+   "handle": "@Empathix54",
+   "niche": "psychology",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC1ySHqlXiCdkztvY8AP3gPQ",
+   "title": "Les Ann\u00e9es d'Avant",
+   "handle": "@les-annees-davant",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCGKfEo3eKN01cwj0vfAduKQ",
+   "title": "Echoes of Hollywood",
+   "handle": "@EchoesofHollywood-e4r",
+   "niche": "culture",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCOXIEZnTJi6hP_is6noaFAw",
+   "title": "Forgotten Europa",
+   "handle": "@ForgottenEuropa",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCaMJ003hQXcETQIs2_ppVLQ",
+   "title": "Bagholder Association",
+   "handle": "@BagholderAssociation",
+   "niche": "business",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCesL03uMdwndPez95N50dfA",
+   "title": "The Brush Pass",
+   "handle": "@TheBrushPass",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCg_LWiiAwM6n60Pme8X5cbQ",
+   "title": "Fossil Fred",
+   "handle": "@FossilFred-y9h",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UClwJ575CuTWKmohD4qiSOnQ",
+   "title": "CRIME & ORDER",
+   "handle": "@CRIMESANDORDER",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCOcQX-XqSJLZF9pKGvJ7KOw",
+   "title": "Hoofed",
+   "handle": "@Hoofedofficial",
+   "niche": "sports",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCKNqzgpFumSE32dPs2JkcNA",
+   "title": "Tides of History",
+   "handle": "@tideshistory",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCvzhHLoj4tOyzHXSJXdhPFg",
+   "title": "Explainer Medieval History",
+   "handle": "@ExplainerMedievalHistory",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCIgV49QHsBxsLq93WyshvrQ",
+   "title": "Dark Crimes History",
+   "handle": "@DarkCrimesHistory",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCRvUFzHducci8SisSNHam3g",
+   "title": "The Evidence Room ",
+   "handle": "@TheEvidenceRoom-b9m",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCKlPR4LessoPYlq1RCGJD6g",
+   "title": "American Family Almanac",
+   "handle": "@americanfamilyalmanac",
+   "niche": "nostalgia",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCQXFte4y853rNuZnoQmvrhw",
+   "title": "Planet Unseen",
+   "handle": "@PlanetUnseenOfficial",
+   "niche": "travel documentary",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCBVUby8tROz1-PiBveHnPPA",
+   "title": "Automotive Legacy Studios",
+   "handle": "@AutomotiveLegacyStudios",
+   "niche": "automotive business",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC3jCZzyKNcHXlMwb-eggFww",
+   "title": "The HiFi Files ",
+   "handle": "@TheHiFiFiles",
+   "niche": "tech",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCjTTXtiyBkWw6vhQsFll0Qw",
+   "title": "Astropyre ",
+   "handle": "@Astropyre",
+   "niche": "science",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCfnJlHvD6nkRsYVcgRqfrUg",
+   "title": "BioPulse",
+   "handle": "@BioPulse-h9y",
+   "niche": "health",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCwH41s-VAjDuhDohYO0ADLw",
+   "title": "MintRoot",
+   "handle": "@minttroot",
+   "niche": "gardening",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCh-xffbkeNh9QCeI-tw1-vA",
+   "title": "What Bodycam Reveals",
+   "handle": "@WhatBodycamReveals",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC6YfuYzfmCL4jcZ9U8XOHzw",
+   "title": "Yard Glow-Up With Ellen",
+   "handle": "@YardGlowUpwithEllen",
+   "niche": "gardening",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCWcTUus-b52vpi_AA5A8quA",
+   "title": "ThriftyHazel",
+   "handle": "@thriftyhazel",
+   "niche": "self improvement",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCWelKMWzHNSEr9EjFn-xjPw",
+   "title": "byline",
+   "handle": "@watchbyline",
+   "niche": "sports",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCAud4q6bsb88wvMaYBMqiEQ",
+   "title": "Pure Science Docs",
+   "handle": "@PureScienceDocs",
+   "niche": "science",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC5kdCOqcwrelm7NUbiZpEWg",
+   "title": "Lives of Great Americans",
+   "handle": "@LivesofGreatAmericans",
+   "niche": "life stories",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCoyKa3iLXn_qoIhRk113Xgg",
+   "title": "Prime Revival",
+   "handle": "@PrimeRevivalHQ",
+   "niche": "do it yourself",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC1nH0PQ-yHkbWzRmaCIAFPA",
+   "title": "Soccer Storm Report",
+   "handle": "@SoccerStormReport",
+   "niche": "soccer",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCzpWjm2W9EUV1x9ozqmGUxg",
+   "title": "Secrets Exposed",
+   "handle": "@SecretsExposed-q9k",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC-gJxQDdAzI5MdhYTzvh-ow",
+   "title": "Pray Path",
+   "handle": "@PrayPath",
+   "niche": "christianity",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCcDBni0gxTyKfd_o1rhQ7rw",
+   "title": "History\u2019s Hidden Lives",
+   "handle": "@celebdropIn",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCZfMc9IPyrPYSlhwjJ9OVeQ",
+   "title": "World Entertainment Documentaries",
+   "handle": "@WorldEntertainmentNews2.0",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCX2wxBzRdBnCHmHcRSVBJrg",
+   "title": "Legend Arc",
+   "handle": "@LegendArc-YT",
+   "niche": "celebrity",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCy1LhcEuod9C4E41avH32Vg",
+   "title": "LevelstoLife",
+   "handle": "@LevelstoLifejai",
+   "niche": "fashion for men",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCRrTwYDOcntqpnv7giZ_zlw",
+   "title": "Exhibit Zero",
+   "handle": "@exhibitzeroo",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCr4uH1kxo6cJHbtx-Rxnfxg",
+   "title": "Exposed Towns",
+   "handle": "@ExposedTownsss",
+   "niche": "real estate",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCVp8tXGVS5p2tnIdBUfBCQw",
+   "title": "Hineni",
+   "handle": "@Hineni-yt",
+   "niche": "christianity",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC-mLu1-nUCy5EQyjTM-dp_g",
+   "title": "Anfield chronicle",
+   "handle": "@anfield_01",
+   "niche": "soccer",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCLtI9SQz4PFhGV3KCT4bRVQ",
+   "title": "The Gunmaker's Mark",
+   "handle": "@TheGunmakersMark",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC9t6wLmvVmw4jb7HQ-_ly6A",
+   "title": "The Age of Lies",
+   "handle": "@theelisees",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCatJz_PrVjYoOhO2g5xqoLg",
+   "title": "Matthew Graves",
+   "handle": "@MatthewGravesLaw",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCkgs3gptV9-Z40IRgoB-Avw",
+   "title": "Prehistoric Archive",
+   "handle": "@PrehistoricArchiveTV",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCzhdWZNe3Zz12-ThaEWsjfw",
+   "title": "ctrback",
+   "handle": "@ctrback",
+   "niche": "sports",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCY69rHFoaz7dJuIPAQrwHCg",
+   "title": "Japan Living Inside",
+   "handle": "@JapanLivinginside",
+   "niche": "culture",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCYYQL6etQLYyIvDY76Ph5WQ",
+   "title": "Sovereign Collapse",
+   "handle": "@SovereignCollapse",
+   "niche": "crime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCcAwUsZYe7l2EWPREZv6lAQ",
+   "title": "Estate Sense",
+   "handle": "@EstateSense",
+   "niche": "personal finance",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCIHZeRrhBNOOqTjgU-4hqIw",
+   "title": "Sitcom Puff",
+   "handle": "@sitcompuff",
+   "niche": "television",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCGqSpEb-z-xZ43IBlsHNPWw",
+   "title": "Dark Presence TV",
+   "handle": "@DarkPresenceTV",
+   "niche": "anomalies and alternative science",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCb5vgGaOLmUChqIscPfOpWQ",
+   "title": "Savage Social Skills",
+   "handle": "@savagesocialskills",
+   "niche": "psychology",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UC56khw4KEBSWyPbztX0COHw",
+   "title": "Below The Stairs",
+   "handle": "@BelowTheStairs",
+   "niche": "history",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCFXwpYZLnYNbP6Iy77M1_PA",
+   "title": "Titan Span",
+   "handle": "@titanspan",
+   "niche": "infrastructure",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCPJOqF1kfH26xZIdKkmMSxA",
+   "title": "Zenith Manhwa Recap",
+   "handle": "@ZenithManhwaRecap-n2p",
+   "niche": "anime",
+   "bucket": "2B"
+  },
+  {
+   "ytChannelId": "UCkeHjmwU00N2r8Q0AwfFv3A",
+   "title": "The Iron Gospel",
+   "handle": "@TheIronGospel-c5v",
+   "niche": "sports",
+   "bucket": "2B"
+  }
+ ]
+}
